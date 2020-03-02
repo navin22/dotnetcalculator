@@ -22,6 +22,7 @@ namespace CalculatorLib
             return result;
         }
 
+        // Divides two numbers
         public double Divide(int num1, int num2)
         {
             if(num2 == 0)
